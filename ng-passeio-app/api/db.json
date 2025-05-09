@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Shoppings",
+      "descricao": "Para fazer compras e passear"
+    },
+    {
+      "nome": "Restaurantes - novos",
+      "descricao": "Lugares para alimentação",
+      "id": "bce3"
+    },
+    {
+      "id": "335a",
+      "nome": "Praias",
+      "descricao": "Lugares para descansar."
+    },
+    {
+      "id": "217e",
+      "nome": "Bares",
+      "descricao": "Lugares para toma uma."
+    },
+    {
+      "id": "06a4",
+      "nome": "Parques",
+      "descricao": "Lugares para dar um rolê aos Domingos."
+    },
+    {
+      "id": "83f4",
+      "nome": "Cidades na Serra",
+      "descricao": "Lugares para passar frio e beber vinhos."
+    }
+  ]
+}

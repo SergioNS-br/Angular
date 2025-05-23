@@ -30,5 +30,31 @@
       "nome": "Cidades na Serra",
       "descricao": "Lugares para passar frio e beber vinhos."
     }
+  ],
+  "lugares": [
+    {
+      "id": "314f",
+      "nome": "Continental",
+      "categoria": "Shoppings",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://www.spbairros.com.br/wp-content/uploads/2013/09/continental-shopping.jpg",
+      "avaliacao": "3"
+    },
+    {
+      "id": "7ed1",
+      "nome": "Bar do Coronel",
+      "categoria": "Bares",
+      "localizacao": "São José dos Campos",
+      "urlFoto": "https://vejasp.abril.com.br/wp-content/uploads/2018/05/ambiente-coronels-claudio-soares-1.jpg?crop=1&resize=1212,909",
+      "avaliacao": "5"
+    },
+    {
+      "id": "0382",
+      "nome": "Santos Dumont",
+      "categoria": "Parques",
+      "localizacao": "São Jose dos Campos",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDj90vvFrj26KLW_H-T3DhmSsDLUql7ZmEzA&s",
+      "avaliacao": "4"
+    }
   ]
 }

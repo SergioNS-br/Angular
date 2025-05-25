@@ -24,7 +24,7 @@ export class LandingpageComponent {
 
   }
 
-  isLoggedIn(){
+  isLoggedIn() : boolean{
     return !! this.profile;
   }
 }

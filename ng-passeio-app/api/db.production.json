@@ -1,0 +1,52 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Shoppings",
+      "descricao": "Para fazer compras e passear"
+    },
+    {
+      "nome": "Restaurantes - novos",
+      "descricao": "Lugares para alimentação",
+      "id": "bce3"
+    },
+    {
+      "id": "335a",
+      "nome": "Praias",
+      "descricao": "Lugares para descansar."
+    },
+    {
+      "id": "217e",
+      "nome": "Bares",
+      "descricao": "Lugares para toma uma."
+    },
+    {
+      "id": "06a4",
+      "nome": "Parques",
+      "descricao": "Lugares para dar um rolê aos Domingos."
+    },
+    {
+      "id": "83f4",
+      "nome": "Cidades na Serra",
+      "descricao": "Lugares para passar frio e beber vinhos."
+    }
+  ],
+  "lugares": [
+    {
+      "id": "7ed1",
+      "nome": "Bar do Coronel",
+      "categoria": "Bares",
+      "localizacao": "São José dos Campos",
+      "urlFoto": "https://vejasp.abril.com.br/wp-content/uploads/2018/05/ambiente-coronels-claudio-soares-1.jpg?crop=1&resize=1212,909",
+      "avaliacao": "5"
+    },
+    {
+      "id": "0382",
+      "nome": "Santos Dumont",
+      "categoria": "Parques",
+      "localizacao": "São Jose dos Campos",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDj90vvFrj26KLW_H-T3DhmSsDLUql7ZmEzA&s",
+      "avaliacao": "4"
+    }
+  ]
+}
